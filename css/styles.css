@@ -56,3 +56,9 @@ header {
     width: 30px;
     height: 30px;
 }
+.logo {
+    width: 60px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}
